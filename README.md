@@ -1,1 +1,1 @@
-HQ instagram clone
+SGGS Connect - A social media platform for SGGS
